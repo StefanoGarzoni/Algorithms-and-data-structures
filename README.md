@@ -13,6 +13,7 @@ KEY FEATURES
 -----------------------------------------
 
 PROJECT OVERVIEW    
+
 This project demonstrates the practical application of algorithmic design principles, leveraging efficient memory management and execution speed.  
 It showcases:  
 
